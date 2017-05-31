@@ -1,4 +1,4 @@
-# LactateKineticTraceAnalyzer_04-10-2008
+# B-LacKineticTraceAnalyzer_04-10-2008
 
 Date Written: 04/10/2008
 
